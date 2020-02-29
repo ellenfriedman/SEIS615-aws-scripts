@@ -1,0 +1,1 @@
+# SEIS615-aws-scripts
